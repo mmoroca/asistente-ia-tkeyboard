@@ -1,0 +1,9 @@
+# PlatformIO build output and cache
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# Editor and OS files
+.vscode/
+.DS_Store
+*.swp
